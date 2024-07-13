@@ -3,19 +3,19 @@
 
 instagrame-hacking is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and This tool works on both rooted Android device and Non-rooted Android device.
 # Tested On Hackers 🏴
-* Kali Linux
+* Arjun Linux
 
 * BlackArch Linux
 
 * Ubuntu
 
-* Kali Nethunter
+* Arjun Nethunter
 
 * Termux
 
 * Parrot OS
 # Installation 🛠️
-# Kali Linux/Ubuntu/Parrot OS:
+# Arjun Linux/Ubuntu/Parrot OS:
     sudo apt-get update
     sudo apt-get install git
     sudo apt install python3
@@ -43,7 +43,7 @@ instagrame-hacking is a bash based script which is officially made to test passw
 
 ### Instagram:
 
-https://instagram.com/https://www.instagram.com/arjunprajapati__official/
+https://instagram.com/https:/www.instagram.com/arjunprajapati__official/
 
 ### My GitHub ID link:
 https://github.com/arjun-2k19
